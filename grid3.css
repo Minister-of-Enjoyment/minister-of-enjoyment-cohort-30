@@ -1,0 +1,28 @@
+.container-fluid {
+  background-color: rgb(42, 122, 42);
+  padding: 8rem;
+}
+.col,
+.main,
+.four {
+  background: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.8rem;
+  color: white;
+}
+.impor {
+  align-self: flex-start;
+}
+
+.two {
+  background: rgb(0, 153, 255);
+}
+.three {
+  background: rgb(0, 255, 162);
+}
+.four {
+  background-color: rgb(5, 115, 128);
+}

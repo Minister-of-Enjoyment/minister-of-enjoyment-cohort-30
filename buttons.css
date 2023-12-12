@@ -1,0 +1,13 @@
+.btn {
+  border-radius: 3px;
+}
+.round {
+  border-radius: 50px;
+}
+.none {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: grey;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
